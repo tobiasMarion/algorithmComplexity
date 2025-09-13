@@ -14,10 +14,12 @@ It is structured as a **digital notebook** containing summaries, notes, solved e
 ---
 
 ## 📂 Repository Structure
+```
 ├── README.md     # General overview
 ├── summaries/    # Lecture notes and theoretical summaries
 ├── exercises/    # Solved Codeforces problems
 └── exams/        # Review material and mock exams
+```
 
 ---
 
